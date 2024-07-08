@@ -1,0 +1,13 @@
+C:\Users\Karthikeyan\Documents\Intel\udp_party\client.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\client.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\client_session.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\client_session.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\crypto_wrapper_empty.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\crypto_wrapper_empty.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\crypto_wrapper_mbedtls.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\crypto_wrapper_mbedtls.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\crypto_wrapper_openssl.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\crypto_wrapper_openssl.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\eliza.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\eliza.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\main.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\main.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\server.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\server.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\server_session.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\server_session.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\session.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\session.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\sockets.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\sockets.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\types.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\types.obj
+C:\Users\Karthikeyan\Documents\Intel\udp_party\utils.cpp;C:\Users\Karthikeyan\Documents\Intel\udp_party\udp_party\x64\Debug\utils.obj
